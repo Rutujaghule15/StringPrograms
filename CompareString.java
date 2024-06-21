@@ -17,16 +17,3 @@ class CompareString
 		System.out.println(sb.equals(sb1));
 	}
 }
-/*
-String str1="java";
-		String str2 = "java";
-		System.out.println(str1==str2);
-
-		String name1 = new String ("jav");
-		String name2 = new String ("jav");
-		System.out.println(name1==name2);
-
-		StringBuffer sb1 = new StringBuffer("python");
-		StringBuffer sb2 = new StringBuffer("python");
-		System.out.println(name1==name2);
-*/
