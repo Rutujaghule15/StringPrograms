@@ -14,16 +14,14 @@ class DemoString
 		String singleCharachter = name3.substring(0,1);//k
 		boolean emptyOrNot = name4.isEmpty();
 
-		// System.out.println(convertedCapital);
-		// System.out.println(length);
-		// System.out.println(singleChar);
-		// System.out.println(mergedName);
-		// System.out.println(multiChar);
-		// System.out.println(singleCharachter);
-		// System.out.println(emptyOrNot);
+		System.out.println(convertedCapital);
+		System.out.println(length);
+		System.out.println(singleChar);
+		System.out.println(mergedName);
+		System.out.println(multiChar);
+		System.out.println(singleCharachter);
+		System.out.println(emptyOrNot);
 
-		String s = "qspiders";
-		String replaced = s.replace('s','j')
-		Ssytem.out.println(replaced);
+		
 	}
 }
