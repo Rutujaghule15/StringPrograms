@@ -1,3 +1,4 @@
+//user-build charAt method-
 class StringMethod2
 {
 	static str ="Ramesh" 
